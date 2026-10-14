@@ -1,0 +1,1 @@
+{"capability_id": "design-rewriting-hook-vs-safety-check-boundary", "end_reason": "fired", "event_id": "fd4349ab-fd0f-4c69-86fb-4ce8dfb807d7", "id": "9ff585e7-8b0c-4b40-b417-3c61e2c989e4", "kind": "operation", "observed_at": "2026-10-13T04:13:32+00:00", "schema_version": 1, "wait_count": 0}

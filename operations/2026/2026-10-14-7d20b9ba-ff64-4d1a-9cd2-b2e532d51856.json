@@ -1,0 +1,1 @@
+{"capability_id": "decision.failure-signaling-channel-for-shared-detector", "end_reason": "fired", "event_id": "b3e39977-5349-4335-8b1c-561e7ea3926f", "id": "7d20b9ba-ff64-4d1a-9cd2-b2e532d51856", "kind": "operation", "observed_at": "2026-10-14T02:33:50+00:00", "schema_version": 1, "wait_count": 0}

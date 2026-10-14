@@ -1,0 +1,1 @@
+{"capability_id": "write-minimal-failing-repro-test-for-cross-boundary-contract", "end_reason": "resumed", "event_id": "6975af3c-687b-4fa3-bdfb-05ab9e891129", "id": "310ad826-d358-4f59-b61d-b19801319b91", "kind": "operation", "observed_at": "2026-10-07T08:01:45+00:00", "schema_version": 1, "wait_count": 0}
