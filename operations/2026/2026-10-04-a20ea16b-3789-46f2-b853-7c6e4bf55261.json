@@ -1,0 +1,1 @@
+{"capability_id": "decision.detection-placement-for-compound-failure", "end_reason": "fired", "event_id": "cd4360fd-7674-46c2-8b53-4e228facb40e", "id": "a20ea16b-3789-46f2-b853-7c6e4bf55261", "kind": "operation", "observed_at": "2026-10-04T02:31:53+00:00", "schema_version": 1, "wait_count": 0}

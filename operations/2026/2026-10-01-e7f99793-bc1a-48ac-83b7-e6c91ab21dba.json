@@ -1,0 +1,1 @@
+{"capability_id": "decision.mutation-vs-validation-ordering", "end_reason": "fired", "event_id": "b13095a5-d214-4e38-b63f-435c9c7c86c7", "id": "e7f99793-bc1a-48ac-83b7-e6c91ab21dba", "kind": "operation", "observed_at": "2026-10-01T03:09:13+00:00", "schema_version": 1, "wait_count": 0}

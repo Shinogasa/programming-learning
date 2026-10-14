@@ -1,0 +1,1 @@
+{"capability_id": "decision.duplicate-key-semantics-in-batch-interface", "end_reason": "fired", "event_id": "7e8169d3-0697-4985-98b1-4c0fab0265e4", "id": "a1c3e5f7-2b4d-4f6a-8c0e-1d3f5b7a9c2e", "kind": "operation", "observed_at": "2026-10-09T06:02:48+00:00", "schema_version": 1, "wait_count": 0}

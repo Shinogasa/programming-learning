@@ -1,0 +1,1 @@
+{"capability_id": "decide-single-source-vs-copy-across-repos", "end_reason": "fired", "event_id": "773b362d-6aed-4f65-a7dd-3d4abf8bc740", "id": "c1c45325-2834-4364-85c9-5cd1d74308ca", "kind": "operation", "observed_at": "2026-10-07T07:30:35+00:00", "schema_version": 1, "wait_count": 0}

@@ -1,0 +1,1 @@
+{"capability_id": "decision.metric-source-of-truth-reconciliation", "end_reason": "fired", "event_id": "8d18e515-81de-43da-bb98-bc7d9f526a8d", "id": "9ed9671a-8671-4a0f-a5da-55c380b658d3", "kind": "operation", "observed_at": "2026-10-08T23:04:27+00:00", "schema_version": 1, "wait_count": 0}

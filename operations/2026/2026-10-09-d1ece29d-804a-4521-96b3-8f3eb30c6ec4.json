@@ -1,0 +1,1 @@
+{"capability_id": "decide-isolation-scope-for-live-config-repo", "end_reason": "fired", "event_id": "2e333251-f2bd-43e9-b427-43fc0f9c5a22", "id": "d1ece29d-804a-4521-96b3-8f3eb30c6ec4", "kind": "operation", "observed_at": "2026-10-09T05:45:44+00:00", "schema_version": 1, "wait_count": 0}
