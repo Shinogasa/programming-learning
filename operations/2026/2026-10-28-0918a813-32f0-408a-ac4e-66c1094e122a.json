@@ -1,0 +1,1 @@
+{"capability_id": "decision.secrets-for-bot-triggered-ci", "end_reason": "fired", "event_id": "99d0a8c4-38cf-4e1a-8e54-4fdf2bb00df5", "id": "0918a813-32f0-408a-ac4e-66c1094e122a", "kind": "operation", "observed_at": "2026-10-28T00:00:00+00:00", "schema_version": 1, "wait_count": 0}

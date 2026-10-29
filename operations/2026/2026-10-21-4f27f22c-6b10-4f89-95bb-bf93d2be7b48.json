@@ -1,0 +1,1 @@
+{"capability_id": "review-completion-gate-before-registration", "end_reason": "fired", "event_id": "1ad708a9-5a5e-441d-9a77-203bc7c533fa", "id": "4f27f22c-6b10-4f89-95bb-bf93d2be7b48", "kind": "operation", "observed_at": "2026-10-21T07:53:47+00:00", "schema_version": 1, "wait_count": 0}

@@ -1,0 +1,1 @@
+{"capability_id": "decision.shared-managed-directory-ownership", "end_reason": "cap_reached", "event_id": "8b2472e0-5b43-45d5-acc8-c7e2abcebfae", "id": "369293d5-7daf-425d-9f1b-2a6cd0d990ed", "kind": "operation", "observed_at": "2026-10-27T08:40:00+00:00", "schema_version": 1, "wait_count": 0}
