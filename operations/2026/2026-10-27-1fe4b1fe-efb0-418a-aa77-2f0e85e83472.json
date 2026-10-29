@@ -1,0 +1,1 @@
+{"capability_id": "decision.relax-inherited-guard", "end_reason": "started", "event_id": "b55f1a90-a4e3-40dd-a8df-bd838ebcfba5", "id": "1fe4b1fe-efb0-418a-aa77-2f0e85e83472", "kind": "operation", "observed_at": "2026-10-27T07:20:00+00:00", "schema_version": 1, "wait_count": 2}

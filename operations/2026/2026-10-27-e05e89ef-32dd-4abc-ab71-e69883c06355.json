@@ -1,0 +1,1 @@
+{"capability_id": "decision.persisted-state-format-rollback", "end_reason": "completed", "event_id": "f976409f-77eb-4aac-85b6-5aa5c578410a", "id": "e05e89ef-32dd-4abc-ab71-e69883c06355", "kind": "operation", "observed_at": "2026-10-27T10:40:00+00:00", "schema_version": 1, "wait_count": 2}

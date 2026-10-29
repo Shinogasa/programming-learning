@@ -1,0 +1,1 @@
+{"capability_id": "decision.batch-skip-completion-flag", "end_reason": "started", "event_id": "02423b41-83b0-4439-be2b-a68f7c688ce4", "id": "4eda33db-61b5-4528-9cc0-2dc7397c6e54", "kind": "operation", "observed_at": "2026-10-27T08:30:00+00:00", "schema_version": 1, "wait_count": 0}

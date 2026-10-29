@@ -1,0 +1,1 @@
+{"capability_id": "decide-delivery-semantics-on-partial-failure", "end_reason": "fired", "event_id": "60674f05-b1ce-45db-97e6-425ba57717a6", "id": "170d8043-2e8c-4cc2-96df-4d49f2821dc3", "kind": "operation", "observed_at": "2026-10-15T01:25:01+00:00", "schema_version": 1, "wait_count": 0}

@@ -1,0 +1,1 @@
+{"capability_id": "decision.build-toolchain-dependency", "end_reason": "fired", "event_id": "86c1edef-7300-4ee7-9f48-3aef7c056e6a", "id": "28950690-defa-4336-8cf1-708dd1769f7d", "kind": "operation", "observed_at": "2026-10-28T00:00:00+00:00", "schema_version": 1, "wait_count": 0}

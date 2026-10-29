@@ -1,0 +1,1 @@
+{"capability_id": "decision.instruction-placement-by-scope", "end_reason": "fired", "event_id": "4b9bec87-2156-4961-922b-a5080dc1904d", "id": "6e8a9226-7541-427c-bf6d-a7bc83f29b7b", "kind": "operation", "observed_at": "2026-10-28T00:00:00+00:00", "schema_version": 1, "wait_count": 0}
