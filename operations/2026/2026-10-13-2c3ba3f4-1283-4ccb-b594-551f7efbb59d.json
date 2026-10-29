@@ -1,0 +1,1 @@
+{"capability_id": "review-test-discriminates-wrong-implementation", "end_reason": "fired", "event_id": "be1d5575-bc79-493b-a159-9abfddc8526b", "id": "2c3ba3f4-1283-4ccb-b594-551f7efbb59d", "kind": "operation", "observed_at": "2026-10-13T10:18:16+00:00", "schema_version": 1, "wait_count": 0}

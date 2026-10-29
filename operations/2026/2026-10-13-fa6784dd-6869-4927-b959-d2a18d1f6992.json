@@ -1,0 +1,1 @@
+{"capability_id": "review-test-discriminates-wrong-implementation", "end_reason": "skipped", "event_id": "be1d5575-bc79-493b-a159-9abfddc8526b", "id": "fa6784dd-6869-4927-b959-d2a18d1f6992", "kind": "operation", "observed_at": "2026-10-13T11:32:57+00:00", "schema_version": 1, "wait_count": 1}

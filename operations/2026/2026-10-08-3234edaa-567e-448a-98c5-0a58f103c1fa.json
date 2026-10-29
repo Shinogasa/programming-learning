@@ -1,0 +1,1 @@
+{"capability_id": "investigate-wall-time-vs-cpu-time-in-slow-tests", "end_reason": "skipped", "event_id": "08f14133-57b9-4773-b48a-4055dd2ae8e8", "id": "3234edaa-567e-448a-98c5-0a58f103c1fa", "kind": "operation", "observed_at": "2026-10-08T23:01:14+00:00", "schema_version": 1, "wait_count": 1}

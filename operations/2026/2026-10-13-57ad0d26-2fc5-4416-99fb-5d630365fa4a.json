@@ -1,0 +1,1 @@
+{"capability_id": "decide-one-shot-permit-consumption-on-downstream-failure", "end_reason": "fired", "event_id": "4a11cfa5-d2b3-49f8-822c-1ecb4299320f", "id": "57ad0d26-2fc5-4416-99fb-5d630365fa4a", "kind": "operation", "observed_at": "2026-10-13T04:13:51+00:00", "schema_version": 1, "wait_count": 0}

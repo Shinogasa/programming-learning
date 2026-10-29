@@ -1,0 +1,1 @@
+{"capability_id": "code.review-subprocess-env-isolation", "end_reason": "fired", "event_id": "4d8d04bf-6787-4fdf-b29b-8df6c6d5ecfa", "id": "fb30e2a0-ff8b-4bd8-9331-cb7cfa02f78c", "kind": "operation", "observed_at": "2026-09-30T15:57:01+00:00", "schema_version": 1, "wait_count": 0}
